@@ -1,6 +1,6 @@
-# key
+# к л ю ч
 
-## Actions : 
+### Actions : 
 
 * centered UI components
 * when phone is flipped, lock the layout? 
@@ -8,5 +8,5 @@
 * a way to retrieve the encypted text [a kway can be list of metadata which a user can rememeber, if multiple occurance found : display
 * the first one, look below the improvement that can be done]
 
-## improvements
+### improvements
 *display all stored encyptions. (or justlist of matching items) - dynamic UI creation might be needed. 
