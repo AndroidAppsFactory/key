@@ -9,4 +9,4 @@
 * the first one, look below the improvement that can be done]
 
 ### improvements
-*display all stored encyptions. (or justlist of matching items) - dynamic UI creation might be needed. 
+* display all stored encyptions. (or justlist of matching items) - dynamic UI creation might be needed. 
